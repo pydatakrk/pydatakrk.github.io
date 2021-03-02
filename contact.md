@@ -21,4 +21,4 @@ Here's a link to our [LinkedIN](https://www.linkedin.com/company/pydata-krak%C3%
 
 # Who did this?
 
-This website (and discord, and meetup page, etc) is maintained by [Michał](https://github.com/mmajewsk) and [Artur](https://github.com/artcz)
+This website (and discord, and meetup page, etc) is maintained by [Maciej](https://github.com/mmajewsk) and [Artur](https://github.com/artcz)
