@@ -7,7 +7,7 @@ title: contact
 
 Our main communication channel is our discord. It's mostly in polish, but everyone speaks english too. :)
 
-Here's the invite:  [discord.gg](https://discord.gg/ECqftujgMU)
+Here's the invite:  [discord.gg](https://discord.gg/dJNHTNg)
 
 
 # Email
