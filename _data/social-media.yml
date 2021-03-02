@@ -9,5 +9,11 @@ linkedin:
   href: 'https://www.linkedin.com/company/'
   title: 'Linkedin'
   fa-icon: 'fa-linkedin-square'
+  
+discord:
+  id: 'Pksa7n8'
+  href: 'https://discord.gg/'
+  title: 'Discord'
+  fa-icon: 'fa-discord-square'
 
 
