@@ -16,4 +16,8 @@ discord:
   title: 'Discord'
   fa-icon: 'fab fa-discord'
 
-
+meetup:
+  id: 'PyData-Krakow'
+  href: 'https://www.meetup.com/'
+  title: 'Meetup'
+  fa-icon: 'fab fa-meetup'
