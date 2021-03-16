@@ -28,8 +28,8 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Pydata Kraków
 email: hello@pydatakrk.pl
 author: Pydata Kraków
-copyright: Copyright © 1970-2010
-description: Pydata kraków website. Pydata Kraków is a community of ML & Data science enthusiasts.
+copyright: Copyright © 2021
+description: PyData Krakóœ is a community of ML & Data science enthusiasts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "pydatakrk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
