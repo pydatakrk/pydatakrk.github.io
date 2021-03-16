@@ -2,3 +2,4 @@
 layout: archives
 title: Meetups
 ---
+<meta http-equiv="Refresh" content="5; url=https://www.quackit.com/html/tags/">
