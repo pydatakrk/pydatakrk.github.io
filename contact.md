@@ -2,6 +2,9 @@
 layout: default
 title: contact
 ---
+# Submitting talk idea 
+
+If you have an idea for a talk you can submit it using [this form](https://forms.gle/XymTtLhkxMdgmWV38)
 
 # Discord
 
