@@ -1,0 +1,23 @@
+facebook:
+  id: 'pydatakrakow'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa fa-facebook-square'
+
+linkedin:
+  id: 'pydata-krak%C3%B3w'
+  href: 'https://www.linkedin.com/company/'
+  title: 'Linkedin'
+  fa-icon: 'fa fa-linkedin-square'
+  
+discord:
+  id: 'Pksa7n8'
+  href: 'https://discord.gg/'
+  title: 'Discord'
+  fa-icon: 'fab fa-discord'
+
+meetup:
+  id: 'PyData-Krakow'
+  href: 'https://www.meetup.com/'
+  title: 'Meetup'
+  fa-icon: 'fab fa-meetup'
